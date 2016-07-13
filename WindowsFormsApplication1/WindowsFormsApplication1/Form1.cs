@@ -29,9 +29,9 @@ namespace WindowsFormsApplication1
             Image img = Image.FromFile(textBox1.Text);
             Bitmap bmp = new Bitmap(img);
 
-            int x = 30;//Convert.ToInt32(rect.left);
-            int y = 30;//Convert.ToInt32(rect.top);
-            int x1 = 320;//Convert.ToInt32(rect.right);
+            int x = 50;//Convert.ToInt32(rect.left);
+            int y = 50;//Convert.ToInt32(rect.top);
+            int x1 = 100;//Convert.ToInt32(rect.right);
             int y1 = 110;//Convert.ToInt32(rect.bottom);
             string folder = "c:\\tmp";
             string fileName = DateTime.Now.Ticks.ToString() + ".jpeg";
