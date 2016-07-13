@@ -1,0 +1,11 @@
+D:\Work\lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+D:\Work\lesson3\Lesson3\bin\Debug\Lesson3.exe
+D:\Work\lesson3\Lesson3\bin\Debug\Lesson3.pdb
+D:\Work\lesson3\Lesson3\bin\Debug\LessonProject.Model.dll
+D:\Work\lesson3\Lesson3\bin\Debug\Ninject.dll
+D:\Work\lesson3\Lesson3\bin\Debug\LessonProject.Model.pdb
+D:\Work\lesson3\Lesson3\bin\Debug\Ninject.pdb
+D:\Work\lesson3\Lesson3\bin\Debug\Ninject.xml
+D:\Work\lesson3\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+D:\Work\lesson3\Lesson3\obj\Debug\Lesson3.exe
+D:\Work\lesson3\Lesson3\obj\Debug\Lesson3.pdb
