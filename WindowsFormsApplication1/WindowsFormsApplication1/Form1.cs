@@ -29,10 +29,10 @@ namespace WindowsFormsApplication1
             Image img = Image.FromFile(textBox1.Text);
             Bitmap bmp = new Bitmap(img);
 
-            int x = 10;//Convert.ToInt32(rect.left);
-            int y = 10;//Convert.ToInt32(rect.top);
-            int x1 = 120;//Convert.ToInt32(rect.right);
-            int y1 = 210;//Convert.ToInt32(rect.bottom);
+            int x = 50;//Convert.ToInt32(rect.left);
+            int y = 50;//Convert.ToInt32(rect.top);
+            int x1 = 100;//Convert.ToInt32(rect.right);
+            int y1 = 110;//Convert.ToInt32(rect.bottom);
             string folder = "c:\\tmp";
             string fileName = DateTime.Now.Ticks.ToString() + ".jpeg";
             string path = Path.Combine(folder, fileName);
